@@ -10,9 +10,9 @@ import cgi
 import time
 
 
-apikey = "72821847a8eaa6dddb530e13886b905b"
-latitude = 45.388
-longitude = -75.699
+apikey = "" #insert your own api key
+latitude = 45.388 #latitude is for Ottawa change it accordingly
+longitude = -75.699 #longitude is for Ottawa, change it accordingly
 language = 'en'
 units = 'si'
 
